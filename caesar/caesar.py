@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 # Caesar Cipher
-# 06/12/2015
 # Following cipher is based on where A = 0, B = 1, ..., Z = 25
 # Highly insecure cipher, never use it
 # The class works by itself as well
